@@ -113,7 +113,7 @@ ai-research-lab/
 ### 1. Clone the repository
 
 ```bash
-git clone <REPOSITORY_URL>
+git clone https://github.com/bellapacx3/ai-research-lab.git
 cd ai-research-lab
 ```
 
